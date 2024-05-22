@@ -1,4 +1,4 @@
 pandas
 numpy
 scipy
-streamlit>=0.90.0
+streamlit
