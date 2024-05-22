@@ -1,6 +1,6 @@
 pandas
 numpy
 streamlit
-SciPy
+scipy
 warnings
 base64
