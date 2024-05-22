@@ -1,6 +1,4 @@
 pandas
 numpy
-streamlit
 scipy
-warnings
-base64
+streamlit>=0.90.0
