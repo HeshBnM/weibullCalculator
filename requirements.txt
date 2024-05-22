@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+scipy.optimize import minimize
+warnings
+base64
