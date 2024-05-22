@@ -1,6 +1,6 @@
 pandas
 numpy
 streamlit
-scipy.optimize import minimize
+scipy.optimize
 warnings
 base64
