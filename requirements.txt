@@ -2,3 +2,5 @@ pandas
 numpy
 scipy
 streamlit
+warnings
+base64
